@@ -1,0 +1,5 @@
+C:\Users\Fife\Desktop\并行开发\并行开发\bin\Debug\并行开发.exe
+C:\Users\Fife\Desktop\并行开发\并行开发\bin\Debug\并行开发.pdb
+C:\Users\Fife\Desktop\并行开发\并行开发\obj\Debug\并行开发.csprojResolveAssemblyReference.cache
+C:\Users\Fife\Desktop\并行开发\并行开发\obj\Debug\并行开发.exe
+C:\Users\Fife\Desktop\并行开发\并行开发\obj\Debug\并行开发.pdb
